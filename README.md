@@ -4,6 +4,10 @@
 
 > **A MySQL-based SQL analytics project using the Brazilian Olist e-commerce dataset to answer real-world business questions across customers, orders, products, sellers, payments, reviews, and revenue.**
 
+### Dataset Source
+
+**Brazilian E-Commerce Public Dataset by Olist — Kaggle**
+🔗 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
 ## 📌 Project Overview
